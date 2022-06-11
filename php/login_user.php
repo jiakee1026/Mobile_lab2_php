@@ -37,6 +37,3 @@ function sendJsonResponse($sentArray)
 }
 
 ?>
-© 2022 GitHub, Inc.
-Terms
-Privacy
